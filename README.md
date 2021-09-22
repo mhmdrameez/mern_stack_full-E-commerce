@@ -4,6 +4,8 @@
 > 
 ![screenshot](https://user-images.githubusercontent.com/31467986/134333864-0ef9b51b-6f2f-4963-b6d9-0ac530e4feee.PNG)
 
+Website-link:https://build-x.herokuapp.com/
+
 ## Features
 
 - Full featured shopping cart
@@ -20,4 +22,4 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-Website-link:https://build-x.herokuapp.com/
+
